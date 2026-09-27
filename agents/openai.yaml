@@ -1,0 +1,7 @@
+interface:
+  display_name: "zn-ppt"
+  short_description: "先策划再制作，内容扎实、真实生图、原创排版与原生动态效果"
+  default_prompt: "用 $zn-ppt 为[主题]设计一套有创意的 PPT，先给我视觉方向和逐页方案，确认后再制作。"
+
+policy:
+  allow_implicit_invocation: true
